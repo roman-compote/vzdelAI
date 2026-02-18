@@ -41,7 +41,7 @@ Research consistently shows a common pattern for effective AI tutoring systems:
 3. **Prompt engineering** with pedagogical guardrails (Socratic method, scaffolding) significantly improves educational outcomes
 4. **Standard protocols** (LTI, xAPI, SCORM) enable integration with existing LMS infrastructure
 
-→ *Full analysis:* [[03-technical-architecture]]
+→ *Full analysis:* [[research/03-technical-architecture]]
 
 ## Regulatory Landscape
 
@@ -87,7 +87,7 @@ The top 10 recommendations for VzdelAI platform design:
 9. **Teacher tools first** — content generation, assessment, and feedback
 10. **Phased rollout** — Faculty PEDaS pilot → university-wide deployment
 
-→ *Full analysis:* [09-recommendations.md](../_archive/09-recommendations.md) *(archived — pending re-research with Microsoft stack)*
+→ *Full analysis:* [09-recommendations.md](09-recommendations.md) *(archived — pending re-research with Microsoft stack)*
 
 ---
 

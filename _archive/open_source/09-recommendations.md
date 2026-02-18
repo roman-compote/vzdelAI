@@ -40,7 +40,7 @@ flowchart TD
 | **Retrieval** | Hybrid search (dense + BM25) with cross-encoder re-ranking | Best precision for educational content |
 | **Framework** | LlamaIndex | Purpose-built for RAG; excellent document loaders; Python-native |
 
-→ *Full technical details:* [03-technical-architecture.md](03-technical-architecture.md)
+→ *Full technical details:* [03-technical-architecture.md](_archive/open_source/03-technical-architecture.md)
 
 ---
 

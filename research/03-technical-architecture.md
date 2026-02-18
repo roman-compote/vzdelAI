@@ -34,7 +34,7 @@ tags:
 
 # 03 — Technical Architecture: Microsoft-Native Stack
 
-> Architecture document for VzdelAI aligned with the project description's Microsoft-native commitments. Replaces the [[_archive/03-technical-architecture|archived open-source architecture]] which proposed FastAPI, pgvector, Next.js, and LlamaIndex.
+> Architecture document for VzdelAI aligned with the project description's Microsoft-native commitments. Replaces the [[_archive/open_source/03-technical-architecture|archived open-source architecture]] which proposed FastAPI, pgvector, Next.js, and LlamaIndex.
 
 > [!note] Azure Platform Changes Since Project Description (~May 2025)
 > - **Azure AI Foundry → Microsoft Foundry** — rebranded Jan 2026; unified AI app/agent factory
@@ -200,7 +200,7 @@ flowchart TD
 ## 3. RAG Pipeline
 
 > [!tip] Key Change From Archived Architecture
-> The [[_archive/03-technical-architecture|archived doc]] proposed LlamaIndex + pgvector + custom embedding pipelines. Azure AI Search **integrated vectorization** (GA all tiers, 2025) replaces this with a config-driven approach: point a skillset at your data source, select an embedding model, and the service handles chunking, embedding, indexing, and incremental refresh.
+> The [[_archive/open_source/03-technical-architecture|archived doc]] proposed LlamaIndex + pgvector + custom embedding pipelines. Azure AI Search **integrated vectorization** (GA all tiers, 2025) replaces this with a config-driven approach: point a skillset at your data source, select an embedding model, and the service handles chunking, embedding, indexing, and incremental refresh.
 
 ### End-to-End Data Flow
 
@@ -818,7 +818,7 @@ gantt
 | [[08-challenges-risks]] | Risk mitigations, faculty adoption strategy, hallucination defense |
 | [[06-academic-research]] | Research evidence for RAG effectiveness, pedagogical frameworks |
 | [[02-platform-landscape]] | Competitive landscape, Copilot for Education positioning |
-| [[_archive/03-technical-architecture]] | Previous open-source stack (context for ADRs) |
+| [[_archive/open_source/03-technical-architecture]] | Previous open-source stack (context for ADRs) |
 
 ---
 
