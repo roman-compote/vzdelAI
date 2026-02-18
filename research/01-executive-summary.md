@@ -41,7 +41,7 @@ Research consistently shows a common pattern for effective AI tutoring systems:
 3. **Prompt engineering** with pedagogical guardrails (Socratic method, scaffolding) significantly improves educational outcomes
 4. **Standard protocols** (LTI, xAPI, SCORM) enable integration with existing LMS infrastructure
 
-→ *Full analysis:* [03-technical-architecture.md](../_archive/03-technical-architecture.md) *(archived — pending re-research with Microsoft stack)*
+→ *Full analysis:* [[03-technical-architecture]]
 
 ## Regulatory Landscape
 
