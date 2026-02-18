@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Obsidian — user-specific workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Claude Code — local settings
+.claude/settings.local.json
