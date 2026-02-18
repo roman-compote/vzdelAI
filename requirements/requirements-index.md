@@ -6,7 +6,6 @@ created: 2026-02-18
 updated: 2026-02-18
 tags:
   - type/planning
-  - type/requirement
 ---
 
 # Requirements Index
