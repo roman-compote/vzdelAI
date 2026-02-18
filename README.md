@@ -21,7 +21,7 @@ This repository contains comprehensive research conducted prior to platform impl
 |---|----------|-------------|
 | 1 | [Executive Summary](research/01-executive-summary.md) | High-level research overview and key findings |
 | 2 | [Platform Landscape](research/02-platform-landscape.md) | Existing AI education platforms analysis |
-| 3 | ~~Technical Architecture~~ | *Archived — pending re-research with Microsoft-native stack* |
+| 3 | [Technical Architecture](research/03-technical-architecture.md) | Microsoft-native technical architecture design |
 | 4 | [MS Teams Integration](research/04-ms-teams-integration.md) | Microsoft Education ecosystem and integration options |
 | 5 | ~~Open-Source Tools~~ | *Archived — pending re-research with Microsoft-native stack* |
 | 6 | [Academic Research](research/06-academic-research.md) | Papers, case studies, frameworks, and CEE projects |
